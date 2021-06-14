@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shadeonline
-- 👀 I’m interested in algorithm trading
-- 🌱 I’m currently learning fullstack web development
+- 👀 I’m interested in algorithmic trading
 - 📫 You can reach me by sending me a pm
 
 <!---
